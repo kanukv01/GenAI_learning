@@ -2,25 +2,16 @@
 
 1️⃣ Step 1: Learn Python & ML Basics
 Learn Python (if not already familiar)
-
 Understand fundamental ML concepts:
-
 Supervised vs. Unsupervised Learning
-
 Regression, Classification
-
 Neural Networks Basics
 
 📚 Resources:
 
-
-Book: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
-
 2️⃣ Step 2: Deep Learning Foundations
 Learn Neural Networks (ANN, CNN, RNN)
-
 Study Loss functions, Optimizers, Backpropagation
-
 Use Deep Learning Frameworks: TensorFlow & PyTorch
 
 📚 Resources:
