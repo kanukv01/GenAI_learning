@@ -13,4 +13,16 @@ Vector Embedding
 
 Prompt Engineering , Fine turing , RAG
 
-The AI Stack:
+AI Engineer: building apps on top of foundation models
+There will be no AI modelling or training it 
+But ,building the agents on top of existing models
+
+Requires :
+Python
+  NumPy
+  Pandas
+Hugging Face: Fine tuning specific tasks
+LangChain: Enables the integration of foundation models into products
+Offers option to select between LLMs
+
+
