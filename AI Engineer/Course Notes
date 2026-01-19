@@ -25,5 +25,5 @@ Hugging Face: Fine tuning specific tasks
 LangChain: Enables the integration of foundation models into products
 Offers option to select between LLMs
 
-List [] , Tuples (), Dictionaries {}
+List [] , Tuples (), Dictionaries {} - Similar to hash map with key value
 
